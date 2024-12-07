@@ -1,0 +1,49 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+    background-color: rgb(244, 218, 184);
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h1.katsu, h2.katsu {
+    color: rgb(100, 45, 5);
+}
+h1.mac, h2.mac {
+    color: orange;
+}
+h1.cereal, h2.cereal {
+    color: whitesmoke;
+}
+
+.dish-name {
+    text-align: center;
+}
+
+img.katsu {
+    border: 5px double rgb(100, 45, 5);
+}
+img.mac {
+    border: 5px double orange;
+}
+img.cereal {
+    border: 5px double whitesmoke;
+}
+
+p {
+    font-size: 20px;
+}
+
+ol, li {
+    font-size: 20px;  
+}
+
+.descrip {
+    font-style: italic;
+}
